@@ -1,0 +1,22 @@
+ #essay {
+        background-color : blue;
+        color: orange;
+}
+ #meatballs {
+     background-image: url("meatballs.jpeg");
+     background-size: cover;
+     height:100vh;
+ }
+
+ #something {
+  color: black;
+ }
+ 
+ 
+  #blah {
+   color: green;
+  }
+ 
+ #words {
+  color: grey;
+ }
